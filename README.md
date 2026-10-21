@@ -20,4 +20,4 @@ Les dépôts de ce compte sont privés : thèmes et sites de clients, squelettes
 
 - Site : [studiomaiis.net](https://www.studiomaiis.net)
 - Contact : [studiomaiis.net/contact](https://www.studiomaiis.net/contact/)
-- LinkedIn : [Pierre Basson](https://www.linkedin.com/in/pierre-basson-540276248/)
+- LinkedIn : [Pierre Basson](https://www.linkedin.com/in/studiomaiis/)
